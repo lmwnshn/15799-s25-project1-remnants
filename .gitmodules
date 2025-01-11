@@ -1,0 +1,9 @@
+[submodule "substrait-java"]
+	path = substrait-java
+	url = git@github.com:substrait-io/substrait-java.git
+[submodule "duckdb-substrait-extension"]
+	path = duckdb-substrait-extension
+	url = git@github.com:substrait-io/duckdb-substrait-extension.git
+[submodule "datafusion-python"]
+	path = datafusion-python
+	url = git@github.com:apache/datafusion-python.git
